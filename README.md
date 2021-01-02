@@ -1,1 +1,2 @@
 Control-4-Redes-de-computadores
+En el presente código se encuentra la pregunta 2 del control de redes de computadores del semestre 2-2020, el cual se utilizo para graficar señales y crear modulaciones de esta
